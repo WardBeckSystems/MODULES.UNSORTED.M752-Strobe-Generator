@@ -33,7 +33,7 @@ Wiki page: [M752](../../../../PAGES/M752.md)
 - **Closed boxes:** 36
 - **Wiring (first pass):** 99 connected wire groups from 842 runs
 
-Every curve, box, word and wire group: [1972 - 752-02-008 - 7 STROBE GENERATOR - DRN MRW - ISS 1 (traced).json](../SCHEMATICS/1972%20-%20752-02-008%20-%207%20STROBE%20GENERATOR%20-%20DRN%20MRW%20-%20ISS%201%20(traced).json) (the CAD file: `1972 - 752-02-008 - 7 STROBE GENERATOR - DRN MRW - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1972 - 752-02-008 - 7 STROBE GENERATOR - DRN MRW - ISS 1 (traced).json](../SCHEMATICS/1972%20-%20752-02-008%20-%207%20STROBE%20GENERATOR%20-%20DRN%20MRW%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1972 - 752-02-008 - 7 STROBE GENERATOR - DRN MRW - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -36,7 +36,7 @@ Wiki page: [M752](../../../../PAGES/M752.md)
 - **Title block:** (372, 19)–(427, 31) mm: Ward · ~BECK  SYSTEMS · 752
 - **Wiring (first pass):** 63 connected wire groups from 715 runs, 4 dotted junctions; labelled ends: 1721 mm → COUNTER, AB€ D, 25, 7442; 281 mm → 7297, COCNTFP; 171 mm → CsT;, cAT`, 25 26, 27 23; 147 mm → 26278, 46; 103 mm → 3021224 Ra
 
-Every curve, box, word and wire group: [1971 - 752-02-001 - M 752 STROBE GENERATOR - DRN MRW - ISS 2 (traced).json](../SCHEMATICS/1971%20-%20752-02-001%20-%20M%20752%20STROBE%20GENERATOR%20-%20DRN%20MRW%20-%20ISS%202%20(traced).json) (the CAD file: `1971 - 752-02-001 - M 752 STROBE GENERATOR - DRN MRW - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1971 - 752-02-001 - M 752 STROBE GENERATOR - DRN MRW - ISS 2 (traced).json](../SCHEMATICS/1971%20-%20752-02-001%20-%20M%20752%20STROBE%20GENERATOR%20-%20DRN%20MRW%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1971 - 752-02-001 - M 752 STROBE GENERATOR - DRN MRW - ISS 2 (traced).dxf`).
 
 ## Full text
 
